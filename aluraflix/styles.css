@@ -45,4 +45,8 @@ header {
     padding-left: 20px;
     padding-right: 20px;
   }
-    
+ 
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+  }
